@@ -8,5 +8,7 @@ System.out.println("Company name is TCS");
 public void comId() {
 	// TODO Auto-generated method stub
 System.out.println("Company Id is 888");
+System.out.println("manikanta");
+System.out.println("madhu");
 }
 }
